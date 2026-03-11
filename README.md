@@ -1,6 +1,6 @@
 # AJP Lab – Student & Faculty API
 
-This is a simple Project **Node.js and Express.js backend application** connected to **MongoDB** using **Mongoose**.
+This Project is a simple **Node.js and Express.js backend application** connected to **MongoDB** using **Mongoose**.
 
 It provides basic REST APIs to manage **Student** and **Faculty** data.
 
